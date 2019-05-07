@@ -47,10 +47,6 @@
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="Audio\Home\audio1.mp3" />
-    <Content Include="Audio\Home\audio2.mp3" />
-    <Content Include="Audio\Home\audio3.mp3" />
-    <Content Include="Audio\Home\audio4.mp3" />
     <Content Include="Picture\Home\chaoxing.png" />
     <Content Include="Picture\Home\createjt.png" />
     <Content Include="Picture\Home\down.png" />
