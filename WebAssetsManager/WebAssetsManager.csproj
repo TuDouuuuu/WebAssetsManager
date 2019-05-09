@@ -47,9 +47,15 @@
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
   </PropertyGroup>
   <ItemGroup>
+    <Folder Include="Article\article1\images\" />
+    <Folder Include="Article\article2\images\" />
+    <Folder Include="Article\article3\images\" />
     <Folder Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Article\article1\content.html" />
+    <Content Include="Article\article2\content.html" />
+    <Content Include="Article\article3\content.html" />
     <Content Include="File\超星刷课.zip" />
     <Content Include="Picture\Home\chaoxing.png" />
     <Content Include="Picture\Home\createjt.png" />
