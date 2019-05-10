@@ -50,6 +50,20 @@
     <Folder Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="BlogAssets\Content\title1.html" />
+    <Content Include="BlogAssets\Content\title2.html" />
+    <Content Include="BlogAssets\Content\title3.html" />
+    <Content Include="BlogAssets\Content\title4.html" />
+    <Content Include="BlogAssets\Content\title5.html" />
+    <Content Include="BlogAssets\Content\title6.html" />
+    <Content Include="BlogAssets\Content\title7.html" />
+    <Content Include="BlogAssets\Cover\title1.png" />
+    <Content Include="BlogAssets\Cover\title2.png" />
+    <Content Include="BlogAssets\Cover\title3.png" />
+    <Content Include="BlogAssets\Cover\title4.png" />
+    <Content Include="BlogAssets\Cover\title5.png" />
+    <Content Include="BlogAssets\Cover\title6.png" />
+    <Content Include="BlogAssets\Cover\title7.png" />
     <Content Include="File\超星刷课.zip" />
     <Content Include="Picture\Home\chaoxing.png" />
     <Content Include="Picture\Home\createjt.png" />
