@@ -50,14 +50,6 @@
     <Folder Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Picture\Home\chaoxing.png" />
-    <Content Include="Picture\Home\createjt.png" />
-    <Content Include="Picture\Home\down.png" />
-    <Content Include="Picture\Home\getdicom.png" />
-    <Content Include="Picture\Home\parsedcm.png" />
-    <Content Include="Picture\Home\user.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="File\超星刷课.zip" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
